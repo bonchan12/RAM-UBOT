@@ -6,7 +6,7 @@ Yang www why<a href="https://www.instagram.com/ramadh20?r=nametag"><img src="htt
     
   </a>
   <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+    <img src="https://img.shields.io/github/stars/bonchan12/bonchan-userbot?style=social">
   </a>
 </p>  
 
